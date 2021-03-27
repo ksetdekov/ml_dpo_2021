@@ -1,5 +1,5 @@
 
-Преподаватели: [Евгений Егоров](https://evgenii-egorov.github.io/), Руслан Костоев, 
+Преподаватели: [Евгений Егоров](https://evgenii-egorov.github.io/), Руслан Костоев
 
 [Чат](https://t.me/joinchat/u5NGLf6CUoEyNjQy) с менеджерами и преподавателями
 

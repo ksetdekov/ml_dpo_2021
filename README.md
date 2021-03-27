@@ -8,7 +8,7 @@
 | Дата | Тема | Лекция | Практика| Практика (решения) |
 |-----|-----|----------|---------|-------------|
 |20 мар|Введение и основные задачи| [Lecture 1](lectures/Lecture1_intro.pdf) | [Seminar 1](practicals/sem_1_empty.ipynb) | [Seminar 1](practicals/sem_1_full.ipynb) |
-|27 мар|Линейная регрессия| [Lecture 2](lectures/Lecture2_lr.pdf) | [Seminar 2](practicals/sem_2_empty.ipynb) | | 
+|27 мар|Линейная регрессия| [Lecture 2](lectures/Lecture2_lr.pdf) | [Seminar 2](practicals/sem_2_empty.ipynb) | [Seminar 2](practicals/sem_2_full.ipynb) | 
 
 
 

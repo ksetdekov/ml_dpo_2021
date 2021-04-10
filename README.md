@@ -10,6 +10,8 @@
 |20 мар|Введение и основные задачи| [Lecture 1](lectures/Lecture1_intro.pdf) | [Seminar 1](practicals/sem_1_empty.ipynb) | [Seminar 1](practicals/sem_1_full.ipynb) |
 |27 мар|Линейная регрессия| [Lecture 2](lectures/Lecture2_lr.pdf) | [Seminar 2](practicals/sem_2_empty.ipynb) | [Seminar 2](practicals/sem_2_full.ipynb) | 
 |3 апр|Градиентные методы обучения| [Lecture 3](lectures/Lecture3_gd.pdf) | [Seminar 3](practicals/sem_3_empty.ipynb) |[Seminar 3](practicals/sem_3_full.ipynb)| 
+|10 апр|Линейная классификация и метрики качества классификации| [Lecture 4](lectures/Lecture4-linclass.pdf) | [Seminar 4](practicals/sem_4_empty.ipynb) || 
+
 
 
 ## Домашние задания

@@ -22,7 +22,7 @@
 
 | Дата публикации| Задание | Дедлайн | Формат Сдачи|
 |----------------|---------|---------|-------------|
-|      |[HW 1](https://github.com/weaselcmc/ml_dpo/tree/mster/hw/hw1)|  23:30| Загрузить ноутбук в Anytask|
+|  07.04.2021    |[HW 1](https://github.com/weaselcmc/ml_dpo_2021/tree/master/hw/hw1)|21.04.2021  23:30| Загрузить ноутбук в Anytask|
 
 
 

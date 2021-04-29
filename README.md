@@ -11,7 +11,8 @@
 |27 мар|Линейная регрессия| [Lecture 2](lectures/Lecture2_lr.pdf) | [Seminar 2](practicals/sem_2_empty.ipynb) | [Seminar 2](practicals/sem_2_full.ipynb) | 
 |3 апр|Градиентные методы обучения| [Lecture 3](lectures/Lecture3_gd.pdf) | [Seminar 3](practicals/sem_3_empty.ipynb) |[Seminar 3](practicals/sem_3_full.ipynb)| 
 |10 апр|Линейная классификация и метрики качества классификации| [Lecture 4](lectures/Lecture4-linclass.pdf) | [Seminar 4](practicals/sem_4_empty.ipynb) || 
-
+|17 апр|Логистическая регрессия и SVM|[Lecture 5](lectures/Lecture5_LogReg_SVM.pdf) |[Seminar 5](practicals/sem_5_empty.ipynb)|[Seminar 5](practicals/sem_5_full.ipynb)|
+|24 апр|Многоклассовая классификация, работа с категориальными признаками и текстами|  [Lecture 6](lectures/Lecture6-multiclass.pdf) |[Seminar 6](practicals/sem_6_empty.ipynb)||
 
 
 ## Домашние задания
@@ -23,7 +24,7 @@
 | Дата публикации| Задание | Дедлайн | Формат Сдачи|
 |----------------|---------|---------|-------------|
 |  07.04.2021    |[HW 1](https://github.com/weaselcmc/ml_dpo_2021/tree/master/hw/hw1)|21.04.2021  23:30| Загрузить ноутбук в Anytask|
-
+| 25.04.2021     |[HW 2](https://github.com/weaselcmc/ml_dpo_2021/tree/master/hw/hw2)| 10.05.2021 23:30| Загрузить ноутбук в Anytask|
 
 
 

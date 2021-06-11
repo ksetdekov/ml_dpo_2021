@@ -16,7 +16,7 @@
 |15 май|Решающие деревья|  [Lecture 7](lectures/Lecture7_trees.pdf) |[Seminar 7](practicals/sem_7_empty.ipynb)|[Seminar 7](practicals/sem_7_full.ipynb)|
 |22 май|Бэггинг и случайные леса| [Lecture 8](lectures/Lecture8_ensembles.pdf) |[Seminar 8](practicals/sem_8.ipynb)||
 |29 май|Градиентный бустинг| [Lecture 9](lectures/Lecture9_gradboost.pdf) |[Seminar 9](practicals/sem_9.ipynb)||
-
+|05 июн|Градиентный бустинг: имплементации| [Lecture 10](lectures/Lecture10_gb_part2.pdf) |[Seminar 10](practicals/sem_10_empty.ipynb)|[Seminar 10](practicals/sem_10_full.ipynb)|
 
 ## Домашние задания
 Ссылка на курс в Anytask: https://anytask.org/course/811
@@ -29,7 +29,7 @@
 |  07.04.2021    |[HW 1](https://github.com/weaselcmc/ml_dpo_2021/tree/master/hw/hw1)|21.04.2021  23:30| Загрузить ноутбук в Anytask|
 | 25.04.2021     |[HW 2](https://github.com/weaselcmc/ml_dpo_2021/tree/master/hw/hw2)| 10.05.2021 23:30| Загрузить ноутбук в Anytask|
 | 28.05.2021     |[HW 3](https://github.com/weaselcmc/ml_dpo_2021/tree/master/hw/hw3)| 07.06.2021 23:30| Загрузить ноутбук в Anytask|
-
+| 11.06.2021     |[HW 4](https://github.com/weaselcmc/ml_dpo_2021/tree/master/hw/hw4)| 21.06.2021 23:30| Загрузить ноутбук в Anytask|
 
 
 ## Полезные ссылки

@@ -17,6 +17,7 @@
 |22 май|Бэггинг и случайные леса| [Lecture 8](lectures/Lecture8_ensembles.pdf) |[Seminar 8](practicals/sem_8.ipynb)||
 |29 май|Градиентный бустинг| [Lecture 9](lectures/Lecture9_gradboost.pdf) |[Seminar 9](practicals/sem_9.ipynb)||
 |05 июн|Градиентный бустинг: имплементации| [Lecture 10](lectures/Lecture10_gb_part2.pdf) |[Seminar 10](practicals/sem_10_empty.ipynb)|[Seminar 10](practicals/sem_10_full.ipynb)|
+|19 июн|Отбор признаков и понижение размерности| [Lecture 11](lectures/Lecture11_dim_red.pdf) |[Seminar 10](practicals/sem_11_empty.ipynb)|[Seminar 10]()|
 
 ## Домашние задания
 Ссылка на курс в Anytask: https://anytask.org/course/811

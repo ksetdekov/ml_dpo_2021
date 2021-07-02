@@ -19,6 +19,7 @@
 |05 июн|Градиентный бустинг: имплементации| [Lecture 10](lectures/Lecture10_gb_part2.pdf) |[Seminar 10](practicals/sem_10_empty.ipynb)|[Seminar 10](practicals/sem_10_full.ipynb)|
 |19 июн|Отбор признаков и понижение размерности| [Lecture 11](lectures/Lecture11_dim_red.pdf) |[Seminar 11](practicals/sem_11_full.ipynb)|[Seminar 11]()|
 |26 июн|Кластеризация| [Lecture 12](lectures/Lecture12_cluster.pdf) ||[Seminar 12](practicals/sem_12_full.ipynb)|
+|03 июл|Поиск аномалий| [Lecture 13](lectures/Lecture13_anomaly.pdf) |[Seminar 13](practicals/sem_13_full.ipynb)||
 
 ## Домашние задания
 Ссылка на курс в Anytask: https://anytask.org/course/811

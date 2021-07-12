@@ -34,6 +34,7 @@
 | 28.05.2021     |[HW 3](https://github.com/weaselcmc/ml_dpo_2021/tree/master/hw/hw3)| 07.06.2021 23:30| Загрузить ноутбук в Anytask|
 | 11.06.2021     |[HW 4](https://github.com/weaselcmc/ml_dpo_2021/tree/master/hw/hw4)| 21.06.2021 23:30| Загрузить ноутбук в Anytask|
 | 25.06.2021     |[HW 5](https://github.com/weaselcmc/ml_dpo_2021/tree/master/hw/hw5)| 04.07.2021 23:30| Загрузить ноутбук в Anytask|
+| 12.07.2021     |[HW 6](https://github.com/weaselcmc/ml_dpo_2021/tree/master/hw/hw6)| 26.07.2021 23:30| Загрузить ноутбук в Anytask|
 
 ## Полезные ссылки
 Disclaimer: ниже представлены ссылки на полезные или просто красивые ресурсы по теме, 

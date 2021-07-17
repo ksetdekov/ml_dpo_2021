@@ -20,6 +20,8 @@
 |19 июн|Отбор признаков и понижение размерности| [Lecture 11](lectures/Lecture11_dim_red.pdf) |[Seminar 11](practicals/sem_11_full.ipynb)|[Seminar 11]()|
 |26 июн|Кластеризация| [Lecture 12](lectures/Lecture12_cluster.pdf) ||[Seminar 12](practicals/sem_12_full.ipynb)|
 |03 июл|Поиск аномалий| [Lecture 13](lectures/Lecture13_anomaly.pdf) |[Seminar 13](practicals/sem_13_empty.ipynb)|[Seminar 13](practicals/sem_13_full.ipynb)|
+|10 июл|Рекомендательные системы| [Lecture 14](lectures/Lecture14-recsys.pdf) |[Seminar 14](practicals/sem_14_recsys.ipynb)||
+|17 июл|Ранжирование| [Lecture 15](lectures/Lecture15_ranking.pdf) |[Seminar 14](practicals/sem_15_empty.ipynb)||
 
 ## Домашние задания
 Ссылка на курс в Anytask: https://anytask.org/course/811
